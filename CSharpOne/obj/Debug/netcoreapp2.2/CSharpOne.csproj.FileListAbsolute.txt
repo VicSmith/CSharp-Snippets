@@ -1,0 +1,11 @@
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\bin\Debug\netcoreapp2.2\CSharpOne.deps.json
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\bin\Debug\netcoreapp2.2\CSharpOne.runtimeconfig.json
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\bin\Debug\netcoreapp2.2\CSharpOne.runtimeconfig.dev.json
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\bin\Debug\netcoreapp2.2\CSharpOne.dll
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\bin\Debug\netcoreapp2.2\CSharpOne.pdb
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\obj\Debug\netcoreapp2.2\CSharpOne.csprojAssemblyReference.cache
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\obj\Debug\netcoreapp2.2\CSharpOne.csproj.CoreCompileInputs.cache
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\obj\Debug\netcoreapp2.2\CSharpOne.AssemblyInfoInputs.cache
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\obj\Debug\netcoreapp2.2\CSharpOne.AssemblyInfo.cs
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\obj\Debug\netcoreapp2.2\CSharpOne.dll
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\CSharpOne\obj\Debug\netcoreapp2.2\CSharpOne.pdb

@@ -1,0 +1,11 @@
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\bin\Debug\netcoreapp2.2\MinimalCSharpProgramProject.deps.json
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\bin\Debug\netcoreapp2.2\MinimalCSharpProgramProject.runtimeconfig.json
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\bin\Debug\netcoreapp2.2\MinimalCSharpProgramProject.runtimeconfig.dev.json
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\bin\Debug\netcoreapp2.2\MinimalCSharpProgramProject.dll
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\bin\Debug\netcoreapp2.2\MinimalCSharpProgramProject.pdb
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\obj\Debug\netcoreapp2.2\MinimalCSharpProgramProject.csprojAssemblyReference.cache
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\obj\Debug\netcoreapp2.2\MinimalCSharpProgramProject.csproj.CoreCompileInputs.cache
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\obj\Debug\netcoreapp2.2\MinimalCSharpProgramProject.AssemblyInfoInputs.cache
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\obj\Debug\netcoreapp2.2\MinimalCSharpProgramProject.AssemblyInfo.cs
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\obj\Debug\netcoreapp2.2\MinimalCSharpProgramProject.dll
+C:\Users\Victor_L_Smith\Documents\GitHub\Vic's Repos\CSharp-Snippets\CSharp-Snippets\MinimalCSharpProgramProject\obj\Debug\netcoreapp2.2\MinimalCSharpProgramProject.pdb
