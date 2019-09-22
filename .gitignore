@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+*.cache
+
+CSharpOne/obj/Debug/netcoreapp2.2/CSharpOne.assets.cache
+CSharpOne/obj/Debug/netcoreapp2.2/CSharpOne.csproj.CoreCompileInputs.cache
+MinimalCSharpProgramProject/obj/Debug/netcoreapp2.2/MinimalCSharpProgramProject.assets.cache
+MinimalCSharpProgramProject/obj/Debug/netcoreapp2.2/MinimalCSharpProgramProject.csproj.CoreCompileInputs.cache
+MinimalCSharpProgramProject/obj/Debug/netcoreapp2.2/MinimalCSharpProgramProject.csprojAssemblyReference.cache
